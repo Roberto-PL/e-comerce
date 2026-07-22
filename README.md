@@ -5,7 +5,7 @@ E.coemerce go
 **Asignatura:** Programación Orientada a Objetos  
 **Unidad:** Unidad 1 - Programación Funcional en Go  
 **Tarea:** Aprendizaje Autónomo 1  
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto consiste en un sistema de gestión de e-commerce desarrollado en consola (CLI) utilizando el lenguaje **Go (Golang)** bajo el paradigma de programación funcional.
 El programa permite:
 
@@ -15,12 +15,12 @@ El programa permite:
 - Calcular el **15% de IVA** sobre la base imponible.
 - Imprimir un comprobante de venta formateado.
 - 
-## 🛠️ Tecnologías y Conceptos Aplicados
+## Tecnologías y Conceptos Aplicados
 - **Lenguaje:** Go (Golang)
 - **Paradigma:** Programación Funcional (Funciones puras y modulares)
 - **Estructuras de Control:** Condicionales (`if / else if`), Bucle iterativo (`for`)
 - **Librerías Estándar:** `fmt` (para entrada y salida de datos por consola)
-## 🚀 Cómo Ejecutar el Proyecto
+## Cómo Ejecutar el Proyecto
 
 1. **Clonar el repositorio:**
    ```bash
