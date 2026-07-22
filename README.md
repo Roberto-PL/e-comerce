@@ -6,7 +6,7 @@ E.coemerce go
 **Unidad:** Unidad 1 - Programación Funcional en Go  
 **Tarea:** Aprendizaje Autónomo 1  
 ## Descripción del Proyecto
-Este proyecto consiste en un sistema de gestión de e-commerce desarrollado en consola (CLI) utilizando el lenguaje **Go (Golang)** bajo el paradigma de programación funcional.
+Este proyecto consiste en un sistema de gestión de e-commerce desarrollado en consola CLI utilizando el lenguaje **Go** bajo el paradigma de programación funcional.
 El programa permite:
 
 - Consultar productos y precios de un catálogo.
